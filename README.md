@@ -32,5 +32,3 @@ Para todos los request de manera obligatoria deben ir el correo y la contraseña
 | Corregir datos del alquiler             | /corregirDatos   |  POST  | email, password, id (Del alquiler), parametros a corregir (modelo, marca, year,color, responsable) |
 | Listar todos los alquileres             | /alquileres      |  POST  | email, password, filtro (entregado, pendiente o todo)                                             |
 | Listar todos los alquileres del usuario | /alquileres/user |  POST  | email, password, filtro (entregado, pendiente o todo)                                             |
-
-
