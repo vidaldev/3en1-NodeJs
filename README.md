@@ -26,7 +26,7 @@ Para todos los request de manera obligatoria deben ir el correo y la contraseña
 |:---------------------------------------:|:----------------:|:------:|:-------------------------------------------------------------------------------------------------:|
 | Comprobar usuario                       | /login           |   GET  | email, password                                                                                   |
 | Crear usuario                           | /createUser      |  POST  | email, password                                                                                   |
-| Recuperar Clave                         |  /forgotPassword |  POST  | email                                                                                             |
+| Recuperar Clave                         | /forgotPassword  |  POST  | email                                                                                             |
 | Abrir un alquiler                       | /alquilar        |  POST  | email, password, modelo, marca, year, color, responsable                                          |
 | Cerrar un alquiler                      | /cerrarAlquiler  |  POST  | email, password, id (Del alquiler abierto), filtro (entregado)                                      |
 | Corregir datos del alquiler             | /corregirDatos   |  POST  | email, password, id (Del alquiler), parametros a corregir (modelo, marca, year,color, responsable) |
