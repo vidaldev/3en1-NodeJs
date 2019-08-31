@@ -4,7 +4,7 @@ Este repositorio pertenece a un reto que consiste en construir la misma aplicaci
 
 * Python [ [repositorio](https://github.com/vidaldev/3en1-Python) | [live](https://repl.it/@vidaldev/3en1-Python) ]
 * NodeJS [ [repositorio](https://github.com/vidaldev/3en1-NodeJs) | [live](https://repl.it/@vidaldev/3en1-NodeJs) ]
-* PHP [ [repositorio]() | [live]() ]
+* PHP [ [repositorio](https://github.com/vidaldev/3en1-PHP) ]
 
 >La única regla es que el flujo de tareas y navegación que siguen los usuarios para completar las tareas sea el mismo en los 3 lenguajes. Puedes elegir los que más te gusten. Puedes seguir diferentes paradigmas, principios y buenas prácticas de programación. Pero la aplicación debe verse absolutamente igual en los 3 proyectos.
 
