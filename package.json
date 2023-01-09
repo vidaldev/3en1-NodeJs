@@ -15,7 +15,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "firebase": "^6.4.0",
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^11.4.1",
     "firestore": "^1.1.6"
   },
   "devDependencies": {
